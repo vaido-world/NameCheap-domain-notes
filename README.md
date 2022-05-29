@@ -13,3 +13,5 @@ www.7days.vaido.world -> https://github.com/vaido-world/7daystodie-dedicated-ser
 
 
 ![image](https://user-images.githubusercontent.com/21064622/170880722-dfba0565-bf38-400f-9781-49e49da8298a.png)
+
+![image](https://user-images.githubusercontent.com/21064622/170880747-e9e3379c-fadb-419e-b01f-538c0a8f36c1.png)
